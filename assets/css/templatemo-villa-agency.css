@@ -1530,12 +1530,10 @@ Page Header Style
 }
 
 .page-heading {
-  background-image: url(../images/pageheading/pageheading.jpg);
   background-position: center bottom;
   background-repeat: no-repeat;
   background-size: cover;
   padding: 110px 0px;
-  text-align: center;
 }
 
 .page-heading span {
@@ -1544,7 +1542,7 @@ Page Header Style
   font-size: 14px;
   font-weight: 500;
   text-transform: uppercase;
-  padding: 10px 25px;
+  padding: 10px 0px;
   display: inline-block;
   margin-bottom: 30px;
   border-radius: 0.5rem;
@@ -1558,7 +1556,6 @@ Page Header Style
   font-size: 48px;
   font-weight: 900;
   text-transform: uppercase;
-  color: #fff;
 }
 
 
